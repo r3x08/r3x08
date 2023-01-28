@@ -1,6 +1,5 @@
 <h3 align="center">Cyber Security specialist.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r3x08&label=Profile%20views&color=0e75b6&style=flat" alt="r3x08" /> </p>
 
 - 🔭 I’m currently working on [CyberDome.tj](https://github.com/cyberdometaj)
 
