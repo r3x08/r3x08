@@ -1,4 +1,5 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=r3x08&show_icons=false)  
+![](https://github-readme-stats.vercel.app/api?username=r3x08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=r3x08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 -  Currently working on [CyberDome.tj](https://github.com/cyberdometaj)
 
