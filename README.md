@@ -1,3 +1,4 @@
+<img src="https://moein.video/wp-content/uploads/2022/05/Eye-GIF-Free-Animated-Icon-350px-after-effects-project-3.gif"  width="100" height="90" >
 ![](https://github-readme-stats.vercel.app/api?username=r3x08&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=r3x08&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
