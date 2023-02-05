@@ -1,7 +1,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=r3x08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=r3x08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
--  Currently working on [CyberDome.tj](https://github.com/cyberdometaj)
+-  Currently working on [CyberDome.tj](https://github.com/cyberdome-tj)
 
 -  Currently learning [OSCP](https://en.wikipedia.org/wiki/Offensive_Security_Certified_Professional) & [LLPL](https://en.wikipedia.org/wiki/Low-level_programming_language)
 <h3 align="left">Languages:</h3>
