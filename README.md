@@ -3,7 +3,7 @@
 <h3 align="left">Stats:</h3>
 
  ![](https://github-readme-stats.vercel.app/api?username=r3x08&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=r3x08&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=r3x08&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br>
  <a href="https://tryhackme.com/p/r3x08"><img src="https://tryhackme-badges.s3.amazonaws.com/r3x08.png" alt="TryHackMe"></a>
 
 <h3 align="left">Learning:</h3> 
