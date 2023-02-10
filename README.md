@@ -4,7 +4,7 @@
 
  ![](https://github-readme-stats.vercel.app/api?username=r3x08&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=r3x08&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br>
- <img src="https://tryhackme-badges.s3.amazonaws.com/r3x08.png" alt="TryHackMe">
+ <a href="https://tryhackme.com/p/r3x08"><img src="https://tryhackme-badges.s3.amazonaws.com/r3x08.png" alt="TryHackMe"></a>
 
 <h3 align="left">Learning:</h3> 
 <p align="left"><b><a href="https://en.wikipedia.org/wiki/Offensive_Security_Certified_Professional">OSCP</a> & <a href="https://en.wikipedia.org/wiki/Low-level_programming_language">LLPL</a></b></p>
