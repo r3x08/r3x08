@@ -1,13 +1,12 @@
 <hr>
-<p align="center"><img src="https://moein.video/wp-content/uploads/2022/05/Eye-GIF-Free-Animated-Icon-350px-after-effects-project-3.gif"  width="100" height="90" ></p>
-<h3 align="left">Stats:</h3>
 
- ![](https://github-readme-stats.vercel.app/api?username=anonimidin&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anonimidin&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
- <a href="https://tryhackme.com/p/r3x08"><img src="https://tryhackme-badges.s3.amazonaws.com/r3x08.png" alt="TryHackMe"></a>
+# Learn. Create. Break. Defend.
+
+<h3>THM:</h3>
+<a href="https://tryhackme.com/p/anonimidin"><img src="https://tryhackme-badges.s3.amazonaws.com/anonimidin.png" alt="TryHackMe">
 
 <h3 align="left">Learning:</h3> 
-<p align="left"><b><a href="https://en.wikipedia.org/wiki/Offensive_Security_Certified_Professional">OSCP</a> & <a href="https://en.wikipedia.org/wiki/Low-level_programming_language">LLPL</a></b></p>
+<p align="left"><b><a href="https://en.wikipedia.org/wiki/Offensive_Security_Certified_Professional">OSCP</a> | <a href="https://en.wikipedia.org/wiki/Low-level_programming_language">LLPL</a></b></p>
  
 <h3 align="left">Languages:</h3>
 <p align="left">
